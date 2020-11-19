@@ -16,7 +16,7 @@ else:
     print("i>=j")
 
 ```
-[百度]https://www.baidu.com/index.php?tn=site888_3_pg&ssl_s=1&ssl_c=ssl1_175e02834aa
+[百度](https://www.baidu.com/index.php?tn=site888_3_pg&ssl_s=1&ssl_c=ssl1_175e02834aa)
 
 
 |章节|标题|课时|
